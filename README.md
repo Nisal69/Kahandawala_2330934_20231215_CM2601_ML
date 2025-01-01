@@ -41,7 +41,7 @@ The following tools and libraries were used for data preprocessing and model imp
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/Nisal69/Kahandawala_2330934_20231215_CM2601_ML.git
    ```
 
 ## Results
