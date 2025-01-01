@@ -66,4 +66,4 @@ The following tools and libraries were used for data preprocessing and model imp
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or contributions, feel free to contact: [nisalkahandawala@gmail.com].
+For any queries or contributions, feel free to contact: nisalkahandawala@gmail.com.
